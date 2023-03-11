@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
-<h3 align="center">A very passinate Grad student in CS :D</h3>
+<h3 align="center"><i>A Very Passinate Grad Student in CS :D</i></h3>
 <img align="right" alt="Coding" width="400" src="https://classroomclipart.com/images/gallery/Animations/Education_School/books-ga.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i0verlord&label=Profile%20views&color=0e75b6&style=flat" alt="i0verlord" /> </p>
