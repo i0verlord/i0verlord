@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/i0verlord" target="blank"><img src="https://img.shields.io/twitter/follow/i0verlord?logo=twitter&style=for-the-badge" alt="i0verlord" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development, Swift programing language**
-
 - 📫 How to reach me **amanjainofficial02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
