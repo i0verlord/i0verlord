@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aman Jain</h1>
-<h3 align="center"><i>Computer Science Grad Student</i></h3>
+<h3 align="center"><i>AIML Engineering  Student</i></h3>
 <img align="right" alt="Coding" width="400" src="https://classroomclipart.com/images/gallery/Animations/Education_School/books-ga.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=i0verlord&label=Profile%20views&color=0e75b6&style=flat" alt="i0verlord" /> </p>
@@ -14,7 +14,7 @@
   <a href="https://twitter.com/i0verlord" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="i0verlord" height="30" width="40" />
   </a>
-  
+
   <a href="https://linkedin.com/in/aman-jain-a4592b223" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-jain-a4592b223" height="30" width="40" />
   </a>
